@@ -1,5 +1,4 @@
 Starw0rks 
-
 ✦ tap the screen to burst your own fireworks in the night sky.
 
 ✦ interactive fireworks with cinematic lighting.
